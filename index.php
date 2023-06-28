@@ -7,7 +7,7 @@
 
     $youtube_video_id = "nFZP8zQ5kzk";
 
-    $api_key = "be532afb54msh1c0bc087509b2cbp159e39jsn3ae2f098ec45"; // Go to rapidapi.com and register to get your unique api key and aply for YTStream - Download YouTube Videos api (its free until you want to make over 200 requests a day)
+    $api_key = ""; // Go to rapidapi.com and register to get your unique api key and aply for YTStream - Download YouTube Videos api (its free until you want to make over 200 requests a day)
 
     $file_name = 'example.mp4'; // Set a route where you want to save your video file. In this case, we saving in the same directory
 
